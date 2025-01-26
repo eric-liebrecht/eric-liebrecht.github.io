@@ -4,8 +4,8 @@
   font-family: "Roboto";
   font-style: normal;
   font-weight: 300;
-  src: url("static/fonts/roboto/roboto-v47-latin-300.woff2") format("woff2"),
-    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ url("static/fonts/roboto/roboto-v47-latin-300.ttf")
+  src: url("fonts/roboto/roboto-v47-latin-300.woff2") format("woff2"),
+    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ url("fonts/roboto/roboto-v47-latin-300.ttf")
       format("truetype"); /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
 }
 /* roboto-regular - latin */
@@ -14,8 +14,8 @@
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
-  src: url("static/fonts/roboto/roboto-v47-latin-regular.woff2") format("woff2"),
-    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ url("static/fonts/roboto/roboto-v47-latin-regular.ttf")
+  src: url("fonts/roboto/roboto-v47-latin-regular.woff2") format("woff2"),
+    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ url("fonts/roboto/roboto-v47-latin-regular.ttf")
       format("truetype"); /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
 }
 /* roboto-500 - latin */
@@ -24,8 +24,8 @@
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
-  src: url("static/fonts/roboto/roboto-v47-latin-500.woff2") format("woff2"),
-    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ url("static/fonts/roboto/roboto-v47-latin-500.ttf")
+  src: url("fonts/roboto/roboto-v47-latin-500.woff2") format("woff2"),
+    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ url("fonts/roboto/roboto-v47-latin-500.ttf")
       format("truetype"); /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
 }
 /* roboto-600 - latin */
@@ -34,8 +34,8 @@
   font-family: "Roboto";
   font-style: normal;
   font-weight: 600;
-  src: url("static/fonts/roboto/roboto-v47-latin-600.woff2") format("woff2"),
-    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ url("static/fonts/roboto/roboto-v47-latin-600.ttf")
+  src: url("fonts/roboto/roboto-v47-latin-600.woff2") format("woff2"),
+    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ url("fonts/roboto/roboto-v47-latin-600.ttf")
       format("truetype"); /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
 }
 /* roboto-700 - latin */
@@ -44,8 +44,8 @@
   font-family: "Roboto";
   font-style: normal;
   font-weight: 700;
-  src: url("static/fonts/roboto/roboto-v47-latin-700.woff2") format("woff2"),
-    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ url("static/fonts/roboto/roboto-v47-latin-700.ttf")
+  src: url("fonts/roboto/roboto-v47-latin-700.woff2") format("woff2"),
+    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ url("fonts/roboto/roboto-v47-latin-700.ttf")
       format("truetype"); /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
 }
 /* roboto-800 - latin */
@@ -54,8 +54,8 @@
   font-family: "Roboto";
   font-style: normal;
   font-weight: 800;
-  src: url("static/fonts/roboto/roboto-v47-latin-800.woff2") format("woff2"),
-    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ url("static/fonts/roboto/roboto-v47-latin-800.ttf")
+  src: url("fonts/roboto/roboto-v47-latin-800.woff2") format("woff2"),
+    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ url("fonts/roboto/roboto-v47-latin-800.ttf")
       format("truetype"); /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
 }
 
@@ -65,8 +65,8 @@
   font-family: "Rubik";
   font-style: normal;
   font-weight: 400;
-  src: url("static/fonts/rubik/rubik-v28-latin-regular.woff2") format("woff2"),
-    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ url("static/fonts/rubik/rubik-v28-latin-regular.ttf")
+  src: url("fonts/rubik/rubik-v28-latin-regular.woff2") format("woff2"),
+    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ url("fonts/rubik/rubik-v28-latin-regular.ttf")
       format("truetype"); /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
 }
 /* rubik-500 - latin */
@@ -75,8 +75,8 @@
   font-family: "Rubik";
   font-style: normal;
   font-weight: 500;
-  src: url("static/fonts/rubik/rubik-v28-latin-500.woff2") format("woff2"),
-    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ url("static/fonts/rubik/rubik-v28-latin-500.ttf")
+  src: url("fonts/rubik/rubik-v28-latin-500.woff2") format("woff2"),
+    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ url("fonts/rubik/rubik-v28-latin-500.ttf")
       format("truetype"); /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
 }
 /* rubik-600 - latin */
@@ -85,8 +85,8 @@
   font-family: "Rubik";
   font-style: normal;
   font-weight: 600;
-  src: url("static/fonts/rubik/rubik-v28-latin-600.woff2") format("woff2"),
-    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ url("static/fonts/rubik/rubik-v28-latin-600.ttf")
+  src: url("fonts/rubik/rubik-v28-latin-600.woff2") format("woff2"),
+    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ url("fonts/rubik/rubik-v28-latin-600.ttf")
       format("truetype"); /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
 }
 /* rubik-700 - latin */
@@ -95,8 +95,8 @@
   font-family: "Rubik";
   font-style: normal;
   font-weight: 700;
-  src: url("static/fonts/rubik/rubik-v28-latin-700.woff2") format("woff2"),
-    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ url("static/fonts/rubik/rubik-v28-latin-700.ttf")
+  src: url("fonts/rubik/rubik-v28-latin-700.woff2") format("woff2"),
+    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ url("fonts/rubik/rubik-v28-latin-700.ttf")
       format("truetype"); /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
 }
 /* rubik-800 - latin */
@@ -105,7 +105,7 @@
   font-family: "Rubik";
   font-style: normal;
   font-weight: 800;
-  src: url("static/fonts/rubik/rubik-v28-latin-800.woff2") format("woff2"),
-    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ url("static/fonts/rubik/rubik-v28-latin-800.ttf")
+  src: url("fonts/rubik/rubik-v28-latin-800.woff2") format("woff2"),
+    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ url("fonts/rubik/rubik-v28-latin-800.ttf")
       format("truetype"); /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
 }
