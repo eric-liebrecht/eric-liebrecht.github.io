@@ -196,6 +196,14 @@ article h2 {
 	font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
 }
 
+article h1 {
+	color: #5A0A18;
+	font-size: 2.5rem;
+	font-weight: 800;
+	letter-spacing: 0.5px;
+	font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+}
+
 article h3 {
 	color: #555;
 	margin-top: 30px;
