@@ -191,14 +191,15 @@ article h2 {
 	padding-bottom: 15px;
 	margin-bottom: 25px;
 	font-size: 2rem;
-	font-weight: bold;
+	font-weight: 800;
 	letter-spacing: 0.5px;
+	font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
 }
 
 article h3 {
 	color: #555;
 	margin-top: 30px;
-	margin-bottom: 15px;
+	margin-bottom: 8px;
 	font-size: 1.3rem;
 	font-weight: bold;
 }
@@ -226,13 +227,13 @@ figcaption {
 
 /* Listen */
 ul, ol {
-	margin: 20px 0;
+	margin: 8px 0 20px 0;
 	padding-left: 40px;
 	line-height: 2;
 }
 
 li {
-	margin: 8px 0;
+	margin: 4px 0;
 }
 
 /* Absätze */
