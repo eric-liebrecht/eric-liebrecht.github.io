@@ -185,7 +185,22 @@ article {
 	z-index: 1;
 }
 
-article h2 {
+/* Blog-Intro auf Startseite */
+.blog-intro {
+	margin: 40px auto;
+	margin-left: auto;
+	width: 700px;
+	position: relative;
+	z-index: 1;
+	padding: 40px;
+	border: 1px solid #e0e0e0;
+	border-radius: 8px;
+	background-color: #F8F6EF;
+	box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+}
+
+article h2,
+.blog-intro h2 {
 	color: #5A0A18;
 	border-bottom: 3px solid #062B1E;
 	padding-bottom: 15px;
@@ -204,7 +219,8 @@ article h1 {
 	font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
 }
 
-article h3 {
+article h3,
+.blog-intro h3 {
 	color: #555;
 	margin-top: 30px;
 	margin-bottom: 8px;
@@ -238,6 +254,16 @@ ul, ol {
 	margin: 8px 0 20px 0;
 	padding-left: 40px;
 	line-height: 2;
+}
+
+.blog-intro ul li a {
+	color: #5A0A18;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.blog-intro ul li a:hover {
+	text-decoration: underline;
 }
 
 li {
